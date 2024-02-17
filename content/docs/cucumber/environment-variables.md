@@ -57,6 +57,12 @@ Enter the environment variable and its value into the dialog.
 
 ![Run/Debug Configuration](/img/environment-variables/idea/enter-environment-variable.png)
 
+### Reading this environment variable value from java script
+
+https://docs.oracle.com/javase/tutorial/essential/environment/env.html
+(OR)
+set and get via System.getProperty(<variable Name>) https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html
+
 ### Other editors
 
 Check the documentation for your editor, or help us improving this documentation by editing this page (link at the bottom of the page).
